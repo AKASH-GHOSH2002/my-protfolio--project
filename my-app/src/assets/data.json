@@ -1,0 +1,57 @@
+{
+    "projects": [
+      {
+        "title": " WEATHER-APP",
+        "description": "The WEATHER-APP provides real-time weather updates using data fetched from a weather API. Built with HTML, CSS, and JavaScript, it offers a simple and responsive interface for users to check weather conditions",
+        "url": "https://weather-app-amber-two-91.vercel.app/",
+        "imgSrc": "https://img.freepik.com/free-vector/realistic-weather-widget_1284-4092.jpg?t=st=1726405797~exp=1726409397~hmac=adf6cf7ccd8230d1b19cbac4b32de92e54e69980eebfad5aa4e35ae7039c181d&w=740"
+      },
+      {
+        
+        "title": "FILE-SHARE-WEBSITE",
+        "description": " The File Share Website allows users to securely upload, share, and manage files with ease. Built using the MERN stack, it ensures fast and efficient file handling with a modern, responsive designe",
+        "url": "https://akashfileshare.vercel.app/",
+        "imgSrc": "https://img.freepik.com/free-vector/concept-transfer-files-landing-page_52683-24895.jpg?t=st=1726410960~exp=1726414560~hmac=e3c543ff325667f20eee1e44cffe25a4b133a008eb5b0fb975c94e425f1c5465&w=740"
+      },
+      {
+        
+        "title": " MY PORTFOLIO",
+        "description": "PROTFOLIA is a dynamic portfolio website built using React, designed to showcase personal projects and skills. It offers a seamless and responsive user experience for displaying creative work and professional achievements.",
+        "url": "/",
+        "imgSrc": "https://media.licdn.com/dms/image/v2/D4E03AQG1z2z5NVARLg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1710266792259?e=1732147200&v=beta&t=MR6orQ-uwRE_j3nmZQskep6DeU7myEV0ipo9z4Vshmk"
+      },
+  
+      {
+       
+        "title": "VIDEO HUB",
+        "description": "Video Hub is a dynamic web application built with React, offering seamless video streaming and content management. It provides users with an intuitive interface to explore, watch, and manage their favorite videos efficiently",
+        "url": "https://video-hubakash.vercel.app/",
+        "imgSrc": "https://img.freepik.com/free-vector/multimedia-player_1095-170.jpg?t=st=1726405857~exp=1726409457~hmac=077355199fcc6c556f76c29eaee2ad6da4032e0433b92bf95751627e61d5edd9&w=740"
+      },
+      
+      {
+       
+        "title": "EVENT-MANAGEMENT-WEBSITE",
+        "description": "The Event Management System is a comprehensive platform built using the MERN stack to streamline event planning and management. It offers user-friendly features for organizing, tracking, and managing events efficiently.",
+        "url": "https://event-mangement-project-akash-ghosh.vercel.app/",
+        "imgSrc": "https://img.freepik.com/free-vector/appointment-booking-landing-page-theme_23-2148556673.jpg?t=st=1726406299~exp=1726409899~hmac=731c1beafe26fbc6c6c4659ecc6185b177ce50ee66c1aa2c0bb17c4bb5f2e7fc&w=740"
+      },
+  
+      {
+      
+        "title": "FOOD-ORDER -WEBSITE",
+        "description": "This project is a simple and responsive food order website built using HTML and CSS. It allows users to browse and order meals seamlessly with a clean, user-friendly interface.",
+        "url": "https://food-order-website-akash--nu.vercel.app/p",
+        "imgSrc": "https://img.freepik.com/free-photo/close-up-hand-holding-device_23-2149246306.jpg?t=st=1726407926~exp=1726411526~hmac=6403ca2cc1c10dc75734e08cb71c1b02e0c88b3fc2e601f0a78687a12461f082&w=360"
+      },
+     
+    
+      {
+        
+        "title": "MORDEN WEBSITE",
+        "description": "MORDEN WEBSITE is a dynamic and responsive platform created using HTML, CSS, and JavaScript. Designed for modern users, it offers an intuitive and visually engaging experience.",
+        "url": "https://morden-websiteakash.vercel.app/",
+        "imgSrc": "https://img.freepik.com/free-vector/gradient-nature-web-design_52683-2654.jpg?t=st=1726411899~exp=1726415499~hmac=ae4704b854087cba2c67d42a598cf06121108be563735d4d2028c579e77936dc&w=740"
+      }
+    ]
+  }
